@@ -6,7 +6,7 @@ export default function Home() {
     <div>
       <Head>
         <title>Airyfolio</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/logos/primary-logo.svg" />
       </Head>
 
       <h1 className='p-6 text-4xl font-bold'>
